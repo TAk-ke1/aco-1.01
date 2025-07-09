@@ -1,6 +1,6 @@
 # ACOによる経路最適化プログラム
 
-# Taku1214Taku
+# TAk-ke1
 
 ## 概要
 このプログラムは、アリコロニー最適化（ACO: Ant Colony Optimization）アルゴリズムを用いて、
